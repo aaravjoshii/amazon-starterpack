@@ -4,32 +4,32 @@ import profile2 from '../assets/profile2.png'
 export const TestimonialsData = [
     {
         image : profile1,
-        comment: " Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        name: "John Alendon"
+        comment: "Beautify's beauty products are a game-changer! My skin feels nourished and glowing after using their skincare range. Highly recommended!",
+        name: "Grace Johnson"
     },
     {
         image : profile2,
-        comment: " Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        name: "Natasha"
+        comment: "I've been using Beautify's makeup line, and I'm impressed! The foundation blends flawlessly, and the lipsticks have fantastic staying power.",
+        name: "Alex Thompson"
     },
     {
         image : profile1,
-        comment: " Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        name: "Alex Hormonzi"
+        comment: "As someone with sensitive skin, I'm delighted with Beautify's gentle yet effective products. Their natural ingredients make all the difference.",
+        name: "Emily Roberts"
     },
     {
         image : profile1,
-        comment: " Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        name: "John Alendon"
+        comment: "Beautify's beauty products are a game-changer! My skin feels nourished and glowing after using their skincare range. Highly recommended!  ",
+        name: "Grace Johnson"
     },
     {
         image : profile2,
-        comment: " Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        name: "Natasha"
+        comment: "I've been using Beautify's makeup line, and I'm impressed! The foundation blends flawlessly, and the lipsticks have fantastic staying power.",
+        name: "Alex Thompson"
     },
     {
         image : profile1,
-        comment: " Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        name: "Alex Hormonzi"
+        comment: "As someone with sensitive skin, I'm delighted with Beautify's gentle yet effective products. Their natural ingredients make all the difference.",
+        name: "Emily Roberts"
     }
 ]
